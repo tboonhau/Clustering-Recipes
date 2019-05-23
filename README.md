@@ -2,7 +2,7 @@
 
 # Motivation
 
-This is my first Data Science project. After several months of self-taught lessons and tutorials from various platforms, I have attempted to build my portfolio of projects to gain my entry into the world of Data Science professionals. There will be a lot mistakes but being able to start has definitely help to build some confidence that it is possible to achieve what one wants to
+This is my first Data Science project. After several months of self-taught lessons and tutorials from various platforms, I have attempted to build my portfolio of projects to gain my entry into the world of Data Science professionals. There will be a lot mistakes but being able to start has definitely help to build some confidence that it is possible to achieve what one wants to achieve.
 
 # Description
 
